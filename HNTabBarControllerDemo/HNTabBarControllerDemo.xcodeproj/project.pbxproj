@@ -319,7 +319,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9Q2C2WD8HH;
+				DEVELOPMENT_TEAM = 6733ST2XN2;
 				INFOPLIST_FILE = HNTabBarControllerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -337,7 +337,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9Q2C2WD8HH;
+				DEVELOPMENT_TEAM = 6733ST2XN2;
 				INFOPLIST_FILE = HNTabBarControllerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
